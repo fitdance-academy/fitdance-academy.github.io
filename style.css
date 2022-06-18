@@ -47,6 +47,10 @@ main {
   display: inline-block;
 }
 
+.logo > svg > path {
+  fill: url(#gradientCrown);
+}
+
 .contentwrap {
   padding: 20px;
   display: flex;
