@@ -16,6 +16,11 @@ path {
   stroke-linejoin: round;
 }
 
+.stage {
+  background: url(./pose3.JPG);
+  width: 100%;
+}
+
 .fitdance {
   font-family: 'Dancing Script', serif;
   font-size: 128px;
