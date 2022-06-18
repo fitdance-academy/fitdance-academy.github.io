@@ -60,4 +60,6 @@ main {
   text-align: center;
   font-family: 'Dancing Script', serif;
   color: white;
+  width: 60%;
+  margin: 0 auto;
 }
