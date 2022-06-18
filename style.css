@@ -50,7 +50,7 @@ main {
 .contentitemwrap {
   width: 250px;
   position: relative;
-  background: linear-gradient(90deg, #6930c3, #5390d9);
+  background: linear-gradient(180deg, #6930c3, #5390d9);
   padding: 3px;
 }
 
