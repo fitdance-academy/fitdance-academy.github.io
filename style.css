@@ -19,9 +19,8 @@ a {
 
 .fitdance {
   font-family: 'Cinzel Decorative', serif;
-  font-size: 128px;
+  font-size: 88px;
   font-weight: 800;
-  padding: 20px;
   background-color: #5390d9;
   background-image: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
                 radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
@@ -30,11 +29,9 @@ a {
   -webkit-text-fill-color: transparent;
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;
+  flex: 1;
 }
 
-.academy {
-  font-family: sans-serif;
-}
 
 hr {
     border: 0;
@@ -53,12 +50,15 @@ main {
 .headwrap {
     width: 100%;
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .logo {
     width: 160px;
     display: inline-block;
-    margin-right: -40px;
+    margin: 0 auto;
+    flex: 1;
 }
 
 .contentwrap {
