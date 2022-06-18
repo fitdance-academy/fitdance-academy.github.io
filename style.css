@@ -41,4 +41,13 @@ hr {
   width: 33%;
   border: 1px solid white;
   height: 200px;
+  padding: 5px;
 }
+
+.contentitemwrap {
+  position: relative;
+  background: linear-gradient(to right, red, purple);
+  padding: 3px;
+  width: 30%;
+}
+  
