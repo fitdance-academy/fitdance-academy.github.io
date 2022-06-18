@@ -3,6 +3,11 @@ body, html {
   color: white;
 }
 
+a {
+  color: white;
+  text-style: underline;
+}
+
 .fitdance {
   font-family: 'Dancing Script', serif;
   font-size: 128px;
