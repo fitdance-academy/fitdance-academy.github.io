@@ -40,6 +40,11 @@ main {
     text-align: center;
 }
 
+.logo {
+  width: 100px;
+  display: inline-block;
+}
+
 .contentwrap {
   padding: 20px;
   display: flex;
