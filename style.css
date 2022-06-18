@@ -68,7 +68,7 @@ main {
 }
 
 .contentitem {
-  height: 250px;
+  height: 234px;
   display: flex;
   padding: 5px;    
   background: black;
