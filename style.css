@@ -24,9 +24,9 @@ a {
   z-index: 0;
 }
 
-@media only screen and (max-width: 600px) {.stage {background: url(./pose1.JPG);}}
-@media only screen and (min-width: 600px) {.stage {background: url(./pose1.JPG);}}
-@media only screen and (min-width: 768px) {.stage {background: url(./pose1.JPG);}}
+@media only screen and (max-width: 600px) {.stage {background: url(./pose.JPG);}}
+@media only screen and (min-width: 600px) {.stage {background: url(./pose.JPG);}}
+@media only screen and (min-width: 768px) {.stage {background: url(./pose.JPG);}}
 @media only screen and (min-width: 992px) {.stage {background: url(./pose3.JPG);}}
 @media only screen and (min-width: 1200px) {.stage {background: url(./pose3.JPG);}}
 
