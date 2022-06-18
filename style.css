@@ -4,8 +4,8 @@ body, html {
 }
 
 a {
-  color: white;
-  text-style: underline;
+  color: #fad236;
+  text-style: dotted;
 }
 
 .stage {
@@ -98,6 +98,7 @@ footer {
   margin: 0 auto;
   font-size: 12px;
   z-index: 1;
+  color: #fad236;
   position: relative;
 }
 
