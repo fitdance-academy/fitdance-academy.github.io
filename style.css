@@ -79,7 +79,7 @@ main {
 
 .contentitem {
   display: flex;
-  padding: 5px;    
+  height: 100%; 
   background: black;
 }
 
