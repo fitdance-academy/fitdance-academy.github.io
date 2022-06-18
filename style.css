@@ -33,6 +33,7 @@ hr {
 .contentwrap {
   padding: 20px;
   display: flex;
+  gap: 30px;
 }
 
 .contentitem {
