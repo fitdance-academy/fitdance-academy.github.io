@@ -33,6 +33,11 @@ a {
   font-weight: 800;
 }
 
+.input {
+  border: 0px;
+  padding: 5px;
+}
+
 .fitdance {
   font-family: 'Cinzel Decorative', serif;
   font-size: 70px;
