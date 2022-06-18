@@ -39,6 +39,9 @@ a {
   border: 0px;
   padding: 5px;
   width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
   margin-top: 20px;
 }
 
