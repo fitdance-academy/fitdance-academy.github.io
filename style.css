@@ -61,10 +61,13 @@ main {
   background: black;
 }
 
+footer {
+  width: 60%;
+  margin: 0 auto;
+}
+
 .footer {
   text-align: center;
   font-family: sans-serif;
   color: white;
-  width: 60%;
-  margin: 0 auto;
 }
