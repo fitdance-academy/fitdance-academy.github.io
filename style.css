@@ -39,4 +39,5 @@ hr {
   display: flex;
   width: 33%;
   border: 1px solid white;
+  height: 200px;
 }
