@@ -2,3 +2,8 @@ body, html {
   background: black;
   color: white;
 }
+
+.fitdance {
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+}
