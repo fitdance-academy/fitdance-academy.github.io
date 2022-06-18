@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 668 368">
       <defs>
-         <radialGradient id="gradient">
+         <radialGradient id="gradient" gradientTransform="rotate(90)">
                   <stop offset="25%" stop-color="#deca7a" />
                   <stop offset="75%" stop-color="#8A6E2F" />
             </radialGradient>
