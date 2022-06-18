@@ -93,11 +93,11 @@ main {
                 radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
   padding: 3px;
 }
-@media only screen and (max-width: 600px) {.contentitemwrap {width: 100%;}}
-@media only screen and (min-width: 600px) {.contentitemwrap {width: 600px;}}
-@media only screen and (min-width: 768px) {.contentitemwrap {width: 350px;}}
-@media only screen and (min-width: 992px) {.contentitemwrap {width: 250px;}}
-@media only screen and (min-width: 1200px) {.contentitemwrap {width: 250px;}}
+@media only screen and (max-width: 600px) {.contentitemwrap {min-width: 100%;}}
+@media only screen and (min-width: 600px) {.contentitemwrap {min-width: 600px;}}
+@media only screen and (min-width: 768px) {.contentitemwrap {min-width: 350px;}}
+@media only screen and (min-width: 992px) {.contentitemwrap {min-width: 250px;}}
+@media only screen and (min-width: 1200px) {.contentitemwrap {min-width: 250px;}}
 
 .contentitem {
   display: flex;
