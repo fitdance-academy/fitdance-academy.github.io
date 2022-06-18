@@ -19,7 +19,7 @@ a {
 
 .fitdance {
   font-family: 'Cinzel Decorative', serif;
-  font-size: 88px;
+  font-size: 70px;
   font-weight: 800;
   background-color: #5390d9;
   background-image: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
@@ -55,7 +55,7 @@ main {
 }
 
 .logo {
-    width: 160px;
+    width: 210px;
     display: inline-block;
     margin: 0 auto;
     flex: 1;
