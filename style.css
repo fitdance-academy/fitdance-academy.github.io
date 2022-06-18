@@ -9,7 +9,7 @@ a {
 }
 
 .stage {
-  background: url(./pose3.JPG);
+  background-image: url(./pose3.JPG);
 }
 
 .stageprop {
@@ -24,11 +24,11 @@ a {
   z-index: 0;
 }
 
-@media only screen and (max-width: 600px) {.stage {background: url(./pose.JPG);}}
-@media only screen and (min-width: 600px) {.stage {background: url(./pose.JPG);}}
-@media only screen and (min-width: 768px) {.stage {background: url(./pose.JPG);}}
-@media only screen and (min-width: 992px) {.stage {background: url(./pose3.JPG);}}
-@media only screen and (min-width: 1200px) {.stage {background: url(./pose3.JPG);}}
+@media only screen and (max-width: 600px) {.stage {background-image: url(./pose.JPG);}}
+@media only screen and (min-width: 600px) {.stage {background-image: url(./pose.JPG);}}
+@media only screen and (min-width: 768px) {.stage {background-image: url(./pose.JPG);}}
+@media only screen and (min-width: 992px) {.stage {background-image: url(./pose3.JPG);}}
+@media only screen and (min-width: 1200px) {.stage {background-image: url(./pose3.JPG);}}
 
 .button {
   background-color: #5390d9;
