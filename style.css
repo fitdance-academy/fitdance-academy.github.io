@@ -17,19 +17,25 @@ body, html {
 }
 
 .academy {
-  font-family: sans-erif;
+  font-family: sans-serif;
 }
 
 hr {
     border: 0;
     height: 1px;
-    background-image: linear-gradient(45deg, #6930c3, #5390d9);
+    background-image: linear-gradient(45deg, #5390d9, #6930c3);
 }
 
 .headwrap {
   text-align: center;
 }
 
-.contentwrap{
+.contentwrap {
+  padding: 20px;
+  display: flex;
+}
 
+.contentitem {
+  display: flex;
+  width: 33%;
 }
