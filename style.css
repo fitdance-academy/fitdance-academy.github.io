@@ -26,9 +26,9 @@ a {
 
 @media only screen and (max-width: 600px) {.stage {background-image: url(./pose.JPG);background-position: initial;}}
 @media only screen and (min-width: 600px) {.stage {background-image: url(./pose.JPG);background-position: initial;}}
-@media only screen and (min-width: 768px) {.stage {background-image: url(./pose3.JPG);background-position: initial;}}
-@media only screen and (min-width: 992px) {.stage {background-image: url(./pose3.JPG);background-position: initial;}}
-@media only screen and (min-width: 1200px) {.stage {background-image: url(./pose3.JPG);background-position: initial;}}
+@media only screen and (min-width: 768px) {.stage {background-image: url(./pose3.JPG);background-position: center center;}}
+@media only screen and (min-width: 992px) {.stage {background-image: url(./pose3.JPG);background-position: center center;}}
+@media only screen and (min-width: 1200px) {.stage {background-image: url(./pose3.JPG);background-position: center center;}}
 
 .button {
   background-color: #5390d9;
