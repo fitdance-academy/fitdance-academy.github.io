@@ -7,6 +7,7 @@ body, html {
   font-family: 'Dancing Script', serif;
   font-size: 68px;
   font-weight: 800;
+  margin-right: 10px;
 }
 
 .academy {
@@ -17,8 +18,7 @@ hr {
   
 }
 
-.headwrap{
-  width: 900px;
+.headwrap {
   text-align: center;
 }
 
