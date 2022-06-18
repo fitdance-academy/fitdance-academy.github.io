@@ -68,6 +68,7 @@ main {
 }
 
 .contentitem {
+  height: 250px;
   display: flex;
   padding: 5px;    
   background: black;
