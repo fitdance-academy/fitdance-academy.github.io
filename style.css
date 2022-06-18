@@ -121,3 +121,7 @@ footer {
   margin-top: 20px;
   z-index: 1;
 }
+
+#mc_embed_signup {
+padding: 10px;
+}
