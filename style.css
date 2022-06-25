@@ -30,6 +30,15 @@ a {
 @media only screen and (min-width: 992px) {.stage {background-image: url(./pose3.JPG);background-position: center center;}}
 @media only screen and (min-width: 1200px) {.stage {background-image: url(./pose3.JPG);background-position: center center;}}
 
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.medium {
+  font-size: 18px;
+}
+
 .button {
   background-color: #5390d9;
   background-image: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
