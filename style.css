@@ -12,6 +12,11 @@ a {
   background-image: url(./pose3.JPG);
 }
 
+.tile {
+  background-image: url(./tile.JPG);
+  background-position: cover;
+}
+
 .stageprop {
   width: 100%;
   background-size:     cover;
