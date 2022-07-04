@@ -13,8 +13,8 @@ a {
 }
 
 .tile {
-  background-image: url(./tile.JPG);
-  background-position: cover;
+  background-image: url(./tile.JPG) !important;
+  background-size: cover !important;
 }
 
 .stageprop {
